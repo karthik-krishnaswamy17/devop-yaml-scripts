@@ -1,1 +1,1 @@
-# devop-yaml-scripts
+# Sample Yaml scripts for Dev-Ops Interview preparation
